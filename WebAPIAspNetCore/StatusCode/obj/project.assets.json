@@ -758,11 +758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anderlanys\\Desktop\\WebAPIAspNetCore\\StatusCode\\StatusCode.csproj",
+      "projectUniqueName": "C:\\Users\\anderlanys\\Desktop\\statusHttp\\WebAPIAspNetCore\\StatusCode\\StatusCode.csproj",
       "projectName": "StatusCode",
-      "projectPath": "C:\\Users\\anderlanys\\Desktop\\WebAPIAspNetCore\\StatusCode\\StatusCode.csproj",
+      "projectPath": "C:\\Users\\anderlanys\\Desktop\\statusHttp\\WebAPIAspNetCore\\StatusCode\\StatusCode.csproj",
       "packagesPath": "C:\\Users\\anderlanys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anderlanys\\Desktop\\WebAPIAspNetCore\\StatusCode\\obj\\",
+      "outputPath": "C:\\Users\\anderlanys\\Desktop\\statusHttp\\WebAPIAspNetCore\\StatusCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
